@@ -1,2 +1,2 @@
-# my-backend-prod
-Python code by Terraform
+# This is prod Python repo is for backend
+Last modified by: Aleks :)
